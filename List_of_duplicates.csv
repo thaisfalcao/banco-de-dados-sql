@@ -1,0 +1,57 @@
+,For each,We have one of
+0,Row ID,Order ID
+1,Row ID,Order Date
+2,Row ID,Ship Date
+3,Row ID,Ship Mode
+4,Row ID,Customer ID
+5,Row ID,Customer Name
+6,Row ID,Segment
+7,Row ID,Country
+8,Row ID,City
+9,Row ID,State
+10,Row ID,Postal Code
+11,Row ID,Region
+12,Row ID,Product ID
+13,Row ID,Category
+14,Row ID,Sub-Category
+15,Row ID,Product Name
+16,Row ID,Sales
+17,Order ID,Order Date
+18,Order ID,Ship Date
+19,Order ID,Ship Mode
+20,Order ID,Customer ID
+21,Order ID,Customer Name
+22,Order ID,Segment
+23,Order ID,Country
+24,Order ID,City
+25,Order ID,State
+26,Order ID,Postal Code
+27,Order ID,Region
+28,Order Date,Country
+29,Ship Date,Country
+30,Ship Mode,Country
+31,Customer ID,Customer Name
+32,Customer ID,Segment
+33,Customer ID,Country
+34,Customer Name,Customer ID
+35,Customer Name,Segment
+36,Customer Name,Country
+37,Segment,Country
+38,Country,Country
+39,City,Country
+40,State,Country
+41,State,Region
+42,Postal Code,Country
+43,Postal Code,State
+44,Postal Code,Region
+45,Region,Country
+46,Product ID,Country
+47,Product ID,Category
+48,Product ID,Sub-Category
+49,Category,Country
+50,Sub-Category,Country
+51,Sub-Category,Category
+52,Product Name,Country
+53,Product Name,Category
+54,Product Name,Sub-Category
+55,Sales,Country

@@ -1,0 +1,628 @@
+cod_address,Postal Code,State,Region,Country
+1,42420.0,Kentucky,South,United States
+2,90036.0,California,West,United States
+3,33311.0,Florida,South,United States
+4,90032.0,California,West,United States
+5,28027.0,North Carolina,South,United States
+6,98103.0,Washington,West,United States
+7,76106.0,Texas,Central,United States
+8,53711.0,Wisconsin,Central,United States
+9,84084.0,Utah,West,United States
+10,94109.0,California,West,United States
+11,68025.0,Nebraska,Central,United States
+12,19140.0,Pennsylvania,East,United States
+13,84057.0,Utah,West,United States
+14,90049.0,California,West,United States
+15,77095.0,Texas,Central,United States
+16,75080.0,Texas,Central,United States
+17,77041.0,Texas,Central,United States
+18,60540.0,Illinois,Central,United States
+19,32935.0,Florida,South,United States
+20,55122.0,Minnesota,Central,United States
+21,48185.0,Michigan,Central,United States
+22,19901.0,Delaware,East,United States
+23,47150.0,Indiana,Central,United States
+24,10024.0,New York,East,United States
+25,12180.0,New York,East,United States
+26,90004.0,California,West,United States
+27,60610.0,Illinois,Central,United States
+28,85234.0,Arizona,West,United States
+29,22153.0,Virginia,South,United States
+30,10009.0,New York,East,United States
+31,49201.0,Michigan,Central,United States
+32,38109.0,Tennessee,South,United States
+33,77070.0,Texas,Central,United States
+34,35601.0,Alabama,South,United States
+35,94122.0,California,West,United States
+36,27707.0,North Carolina,South,United States
+37,60623.0,Illinois,Central,United States
+38,29203.0,South Carolina,South,United States
+39,55901.0,Minnesota,Central,United States
+40,55407.0,Minnesota,Central,United States
+41,97206.0,Oregon,West,United States
+42,55106.0,Minnesota,Central,United States
+43,80013.0,Colorado,West,United States
+44,28205.0,North Carolina,South,United States
+45,60462.0,Illinois,Central,United States
+46,10035.0,New York,East,United States
+47,50322.0,Iowa,Central,United States
+48,43229.0,Ohio,East,United States
+49,37620.0,Tennessee,South,United States
+50,19805.0,Delaware,East,United States
+51,61701.0,Illinois,Central,United States
+52,85023.0,Arizona,West,United States
+53,95661.0,California,West,United States
+54,64055.0,Missouri,Central,United States
+55,91104.0,California,West,United States
+56,43055.0,Ohio,East,United States
+57,53132.0,Wisconsin,Central,United States
+58,85254.0,Arizona,West,United States
+59,95123.0,California,West,United States
+60,98105.0,Washington,West,United States
+61,98115.0,Washington,West,United States
+62,73034.0,Oklahoma,Central,United States
+63,90045.0,California,West,United States
+64,19134.0,Pennsylvania,East,United States
+65,88220.0,New Mexico,West,United States
+66,78207.0,Texas,Central,United States
+67,77036.0,Texas,Central,United States
+68,62521.0,Illinois,Central,United States
+69,71203.0,Louisiana,South,United States
+70,6824.0,Connecticut,East,United States
+71,75051.0,Texas,Central,United States
+72,92374.0,California,West,United States
+73,45011.0,Ohio,East,United States
+74,7090.0,New Jersey,East,United States
+75,19120.0,Pennsylvania,East,United States
+76,44312.0,Ohio,East,United States
+77,80219.0,Colorado,West,United States
+78,75220.0,Texas,Central,United States
+79,37064.0,Tennessee,South,United States
+80,90604.0,California,West,United States
+81,48601.0,Michigan,Central,United States
+82,44256.0,Ohio,East,United States
+83,43017.0,Ohio,East,United States
+84,48227.0,Michigan,Central,United States
+85,38401.0,Tennessee,South,United States
+86,33614.0,Florida,South,United States
+87,95051.0,California,West,United States
+88,55044.0,Minnesota,Central,United States
+89,92037.0,California,West,United States
+90,77506.0,Texas,Central,United States
+91,94513.0,California,West,United States
+92,27514.0,North Carolina,South,United States
+93,7960.0,New Jersey,East,United States
+94,45231.0,Ohio,East,United States
+95,94110.0,California,West,United States
+96,90301.0,California,West,United States
+97,33319.0,Florida,South,United States
+98,80906.0,Colorado,West,United States
+99,7109.0,New Jersey,East,United States
+100,48180.0,Michigan,Central,United States
+101,8701.0,New Jersey,East,United States
+102,22204.0,Virginia,South,United States
+103,80004.0,Colorado,West,United States
+104,7601.0,New Jersey,East,United States
+105,33710.0,Florida,South,United States
+106,19143.0,Pennsylvania,East,United States
+107,90805.0,California,West,United States
+108,92345.0,California,West,United States
+109,37130.0,Tennessee,South,United States
+110,84041.0,Utah,West,United States
+111,78745.0,Texas,Central,United States
+112,1852.0,Massachusetts,East,United States
+113,31907.0,Georgia,South,United States
+114,6040.0,Connecticut,East,United States
+115,78550.0,Texas,Central,United States
+116,85705.0,Arizona,West,United States
+117,62301.0,Illinois,Central,United States
+118,2038.0,Massachusetts,East,United States
+119,33024.0,Florida,South,United States
+120,98198.0,Washington,West,United States
+121,61604.0,Illinois,Central,United States
+122,89115.0,Nevada,West,United States
+123,2886.0,Rhode Island,East,United States
+124,33180.0,Florida,South,United States
+125,28403.0,North Carolina,South,United States
+126,92646.0,California,West,United States
+127,40475.0,Kentucky,South,United States
+128,80027.0,Colorado,West,United States
+129,1841.0,Massachusetts,East,United States
+130,39212.0,Mississippi,South,United States
+131,48187.0,Michigan,Central,United States
+132,10801.0,New York,East,United States
+133,28052.0,North Carolina,South,United States
+134,32216.0,Florida,South,United States
+135,47201.0,Indiana,Central,United States
+136,13021.0,New York,East,United States
+137,73071.0,Oklahoma,Central,United States
+138,94521.0,California,West,United States
+139,60068.0,Illinois,Central,United States
+140,79109.0,Texas,Central,United States
+141,11757.0,New York,East,United States
+142,90008.0,California,West,United States
+143,92024.0,California,West,United States
+144,77340.0,Texas,Central,United States
+145,14609.0,New York,East,United States
+146,72701.0,Arkansas,South,United States
+147,92627.0,California,West,United States
+148,80134.0,Colorado,West,United States
+149,30318.0,Georgia,South,United States
+150,64118.0,Missouri,Central,United States
+151,59405.0,Montana,West,United States
+152,48234.0,Michigan,Central,United States
+153,33801.0,Florida,South,United States
+154,36116.0,Alabama,South,United States
+155,85204.0,Arizona,West,United States
+156,60653.0,Illinois,Central,United States
+157,54302.0,Wisconsin,Central,United States
+158,45503.0,Ohio,East,United States
+159,92804.0,California,West,United States
+160,98270.0,Washington,West,United States
+161,97301.0,Oregon,West,United States
+162,78041.0,Texas,Central,United States
+163,75217.0,Texas,Central,United States
+164,43123.0,Ohio,East,United States
+165,10011.0,New York,East,United States
+166,48126.0,Michigan,Central,United States
+167,31088.0,Georgia,South,United States
+168,94591.0,California,West,United States
+169,92691.0,California,West,United States
+170,48307.0,Michigan,Central,United States
+171,7060.0,New Jersey,East,United States
+172,85635.0,Arizona,West,United States
+173,98661.0,Washington,West,United States
+174,60505.0,Illinois,Central,United States
+175,76017.0,Texas,Central,United States
+176,40214.0,Kentucky,South,United States
+177,75081.0,Texas,Central,United States
+178,44105.0,Ohio,East,United States
+179,75701.0,Texas,Central,United States
+180,27217.0,North Carolina,South,United States
+181,22980.0,Virginia,South,United States
+182,19013.0,Pennsylvania,East,United States
+183,27511.0,North Carolina,South,United States
+184,32137.0,Florida,South,United States
+185,10550.0,New York,East,United States
+186,48205.0,Michigan,Central,United States
+187,33012.0,Florida,South,United States
+188,11572.0,New York,East,United States
+189,92105.0,California,West,United States
+190,60201.0,Illinois,Central,United States
+191,48183.0,Michigan,Central,United States
+192,55016.0,Minnesota,Central,United States
+193,71111.0,Louisiana,South,United States
+194,50315.0,Iowa,Central,United States
+195,93534.0,California,West,United States
+196,23223.0,Virginia,South,United States
+197,28806.0,North Carolina,South,United States
+198,92530.0,California,West,United States
+199,68104.0,Nebraska,Central,United States
+200,98026.0,Washington,West,United States
+201,92704.0,California,West,United States
+202,53209.0,Wisconsin,Central,United States
+203,41042.0,Kentucky,South,United States
+204,44052.0,Ohio,East,United States
+205,7036.0,New Jersey,East,United States
+206,93905.0,California,West,United States
+207,8901.0,New Jersey,East,United States
+208,17602.0,Pennsylvania,East,United States
+209,3301.0,New Hampshire,East,United States
+210,21044.0,Maryland,East,United States
+211,75043.0,Texas,Central,United States
+212,6360.0,Connecticut,East,United States
+213,22304.0,Virginia,South,United States
+214,43615.0,Ohio,East,United States
+215,87401.0,New Mexico,West,United States
+216,92503.0,California,West,United States
+217,90503.0,California,West,United States
+218,78664.0,Texas,Central,United States
+219,92054.0,California,West,United States
+220,33433.0,Florida,South,United States
+221,23464.0,Virginia,South,United States
+222,92563.0,California,West,United States
+223,28540.0,North Carolina,South,United States
+224,52601.0,Iowa,Central,United States
+225,98502.0,Washington,West,United States
+226,20016.0,District of Columbia,East,United States
+227,65109.0,Missouri,Central,United States
+228,63376.0,Missouri,Central,United States
+229,61107.0,Illinois,Central,United States
+230,33142.0,Florida,South,United States
+231,78521.0,Texas,Central,United States
+232,10701.0,New York,East,United States
+233,94601.0,California,West,United States
+234,28110.0,North Carolina,South,United States
+235,20735.0,Maryland,East,United States
+236,30076.0,Georgia,South,United States
+237,72401.0,Arkansas,South,United States
+238,47374.0,Indiana,Central,United States
+239,94509.0,California,West,United States
+240,33030.0,Florida,South,United States
+241,46350.0,Indiana,Central,United States
+242,48911.0,Michigan,Central,United States
+243,44221.0,Ohio,East,United States
+244,89502.0,Nevada,West,United States
+245,22801.0,Virginia,South,United States
+246,92025.0,California,West,United States
+247,48073.0,Michigan,Central,United States
+248,20852.0,Maryland,East,United States
+249,33065.0,Florida,South,United States
+250,14215.0,New York,East,United States
+251,33437.0,Florida,South,United States
+252,39503.0,Mississippi,South,United States
+253,93727.0,California,West,United States
+254,27834.0,North Carolina,South,United States
+255,11561.0,New York,East,United States
+256,35630.0,Alabama,South,United States
+257,31204.0,Georgia,South,United States
+258,52402.0,Iowa,Central,United States
+259,2908.0,Rhode Island,East,United States
+260,81001.0,Colorado,West,United States
+261,94533.0,California,West,United States
+262,32725.0,Florida,South,United States
+263,42071.0,Kentucky,South,United States
+264,6457.0,Connecticut,East,United States
+265,11520.0,New York,East,United States
+266,90660.0,California,West,United States
+267,84604.0,Utah,West,United States
+268,84062.0,Utah,West,United States
+269,30080.0,Georgia,South,United States
+270,24153.0,Virginia,South,United States
+271,44134.0,Ohio,East,United States
+272,36608.0,Alabama,South,United States
+273,2740.0,Massachusetts,East,United States
+274,75061.0,Texas,Central,United States
+275,8360.0,New Jersey,East,United States
+276,85301.0,Arizona,West,United States
+277,14304.0,New York,East,United States
+278,27360.0,North Carolina,South,United States
+279,92683.0,California,West,United States
+280,38301.0,Tennessee,South,United States
+281,75019.0,Texas,Central,United States
+282,91767.0,California,West,United States
+283,89031.0,Nevada,West,United States
+284,18103.0,Pennsylvania,East,United States
+285,19711.0,Delaware,East,United States
+286,85281.0,Arizona,West,United States
+287,92677.0,California,West,United States
+288,8302.0,New Jersey,East,United States
+289,2149.0,Massachusetts,East,United States
+290,13601.0,New York,East,United States
+291,54915.0,Wisconsin,Central,United States
+292,98006.0,Washington,West,United States
+293,75002.0,Texas,Central,United States
+294,79907.0,Texas,Central,United States
+295,76051.0,Texas,Central,United States
+296,75007.0,Texas,Central,United States
+297,37167.0,Tennessee,South,United States
+298,98031.0,Washington,West,United States
+299,70506.0,Louisiana,South,United States
+300,97224.0,Oregon,West,United States
+301,60076.0,Illinois,Central,United States
+302,75023.0,Texas,Central,United States
+303,23434.0,Virginia,South,United States
+304,46203.0,Indiana,Central,United States
+305,7002.0,New Jersey,East,United States
+306,28314.0,North Carolina,South,United States
+307,27405.0,North Carolina,South,United States
+308,21215.0,Maryland,East,United States
+309,53142.0,Wisconsin,Central,United States
+310,66062.0,Kansas,Central,United States
+311,98002.0,Washington,West,United States
+312,74133.0,Oklahoma,Central,United States
+313,97756.0,Oregon,West,United States
+314,27604.0,North Carolina,South,United States
+315,74403.0,Oklahoma,Central,United States
+316,6450.0,Connecticut,East,United States
+317,42104.0,Kentucky,South,United States
+318,46614.0,Indiana,Central,United States
+319,6010.0,Connecticut,East,United States
+320,89015.0,Nevada,West,United States
+321,99207.0,Washington,West,United States
+322,76248.0,Texas,Central,United States
+323,45014.0,Ohio,East,United States
+324,32127.0,Florida,South,United States
+325,97504.0,Oregon,West,United States
+326,22901.0,Virginia,South,United States
+327,59801.0,Montana,West,United States
+328,33178.0,Florida,South,United States
+329,29501.0,South Carolina,South,United States
+330,97477.0,Oregon,West,United States
+331,32712.0,Florida,South,United States
+332,19601.0,Pennsylvania,East,United States
+333,80020.0,Colorado,West,United States
+334,65807.0,Missouri,Central,United States
+335,7501.0,New Jersey,East,United States
+336,73120.0,Oklahoma,Central,United States
+337,23320.0,Virginia,South,United States
+338,79424.0,Texas,Central,United States
+339,65203.0,Missouri,Central,United States
+340,37604.0,Tennessee,South,United States
+341,36830.0,Alabama,South,United States
+342,92404.0,California,West,United States
+343,1453.0,Massachusetts,East,United States
+344,59715.0,Montana,West,United States
+345,85345.0,Arizona,West,United States
+346,44107.0,Ohio,East,United States
+347,8861.0,New Jersey,East,United States
+348,91761.0,California,West,United States
+349,91730.0,California,West,United States
+350,56560.0,Minnesota,Central,United States
+351,75150.0,Texas,Central,United States
+352,95207.0,California,West,United States
+353,32174.0,Florida,South,United States
+354,94086.0,California,West,United States
+355,3820.0,New Hampshire,East,United States
+356,17403.0,Pennsylvania,East,United States
+357,77840.0,Texas,Central,United States
+358,63116.0,Missouri,Central,United States
+359,2169.0,Massachusetts,East,United States
+360,95336.0,California,West,United States
+361,44240.0,Ohio,East,United States
+362,76903.0,Texas,Central,United States
+363,84106.0,Utah,West,United States
+364,35810.0,Alabama,South,United States
+365,37918.0,Tennessee,South,United States
+366,72209.0,Arkansas,South,United States
+367,48146.0,Michigan,Central,United States
+368,43302.0,Ohio,East,United States
+369,80122.0,Colorado,West,United States
+370,,Vermont,East,United States
+371,4401.0,Maine,East,United States
+372,38671.0,Mississippi,South,United States
+373,47362.0,Indiana,Central,United States
+374,48640.0,Michigan,Central,United States
+375,57103.0,South Dakota,Central,United States
+376,80525.0,Colorado,West,United States
+377,47905.0,Indiana,Central,United States
+378,37042.0,Tennessee,South,United States
+379,95823.0,California,West,United States
+380,91360.0,California,West,United States
+381,2148.0,Massachusetts,East,United States
+382,1040.0,Massachusetts,East,United States
+383,87105.0,New Mexico,West,United States
+384,89431.0,Nevada,West,United States
+385,92236.0,California,West,United States
+386,60126.0,Illinois,Central,United States
+387,7055.0,New Jersey,East,United States
+388,29406.0,South Carolina,South,United States
+389,23602.0,Virginia,South,United States
+390,14701.0,New York,East,United States
+391,46544.0,Indiana,Central,United States
+392,43402.0,Ohio,East,United States
+393,92253.0,California,West,United States
+394,32303.0,Florida,South,United States
+395,37211.0,Tennessee,South,United States
+396,98226.0,Washington,West,United States
+397,60098.0,Illinois,Central,United States
+398,76117.0,Texas,Central,United States
+399,60090.0,Illinois,Central,United States
+400,29483.0,South Carolina,South,United States
+401,71901.0,Arkansas,South,United States
+402,80112.0,Colorado,West,United States
+403,43130.0,Ohio,East,United States
+404,88001.0,New Mexico,West,United States
+405,35244.0,Alabama,South,United States
+406,75034.0,Texas,Central,United States
+407,95687.0,California,West,United States
+408,84107.0,Utah,West,United States
+409,53186.0,Wisconsin,Central,United States
+410,93309.0,California,West,United States
+411,33068.0,Florida,South,United States
+412,45373.0,Ohio,East,United States
+413,78415.0,Texas,Central,United States
+414,90278.0,California,West,United States
+415,32839.0,Florida,South,United States
+416,7050.0,New Jersey,East,United States
+417,70601.0,Louisiana,South,United States
+418,60035.0,Illinois,Central,United States
+419,11550.0,New York,East,United States
+420,46060.0,Indiana,Central,United States
+421,55124.0,Minnesota,Central,United States
+422,29464.0,South Carolina,South,United States
+423,48310.0,Michigan,Central,United States
+424,54703.0,Wisconsin,Central,United States
+425,78577.0,Texas,Central,United States
+426,59102.0,Montana,West,United States
+427,97030.0,Oregon,West,United States
+428,37421.0,Tennessee,South,United States
+429,83642.0,Idaho,West,United States
+430,92307.0,California,West,United States
+431,60440.0,Illinois,Central,United States
+432,55369.0,Minnesota,Central,United States
+433,95695.0,California,West,United States
+434,77489.0,Texas,Central,United States
+435,77581.0,Texas,Central,United States
+436,94403.0,California,West,United States
+437,49505.0,Michigan,Central,United States
+438,93277.0,California,West,United States
+439,66212.0,Kansas,Central,United States
+440,92592.0,California,West,United States
+441,92399.0,California,West,United States
+442,2151.0,Massachusetts,East,United States
+443,77301.0,Texas,Central,United States
+444,60477.0,Illinois,Central,United States
+445,52001.0,Iowa,Central,United States
+446,48127.0,Michigan,Central,United States
+447,87505.0,New Mexico,West,United States
+448,28601.0,North Carolina,South,United States
+449,60188.0,Illinois,Central,United States
+450,56301.0,Minnesota,Central,United States
+451,33161.0,Florida,South,United States
+452,46226.0,Indiana,Central,United States
+453,33317.0,Florida,South,United States
+454,34952.0,Florida,South,United States
+455,29730.0,South Carolina,South,United States
+456,79762.0,Texas,Central,United States
+457,53214.0,Wisconsin,Central,United States
+458,91911.0,California,West,United States
+459,66502.0,Kansas,Central,United States
+460,16602.0,Pennsylvania,East,United States
+461,80229.0,Colorado,West,United States
+462,61821.0,Illinois,Central,United States
+463,47401.0,Indiana,Central,United States
+464,71854.0,Arkansas,South,United States
+465,78539.0,Texas,Central,United States
+466,77520.0,Texas,Central,United States
+467,46142.0,Indiana,Central,United States
+468,90712.0,California,West,United States
+469,2895.0,Rhode Island,East,United States
+470,54880.0,Wisconsin,Central,United States
+471,76021.0,Texas,Central,United States
+472,98042.0,Washington,West,United States
+473,74012.0,Oklahoma,Central,United States
+474,33023.0,Florida,South,United States
+475,33021.0,Florida,South,United States
+476,77536.0,Texas,Central,United States
+477,67212.0,Kansas,Central,United States
+478,78501.0,Texas,Central,United States
+479,52240.0,Iowa,Central,United States
+480,83704.0,Idaho,West,United States
+481,2920.0,Rhode Island,East,United States
+482,61032.0,Illinois,Central,United States
+483,77642.0,Texas,Central,United States
+484,95610.0,California,West,United States
+485,75056.0,Texas,Central,United States
+486,98052.0,Washington,West,United States
+487,32114.0,Florida,South,United States
+488,86442.0,Arizona,West,United States
+489,46368.0,Indiana,Central,United States
+490,58103.0,North Dakota,Central,United States
+491,46514.0,Indiana,Central,United States
+492,91776.0,California,West,United States
+493,33063.0,Florida,South,United States
+494,30328.0,Georgia,South,United States
+495,44060.0,Ohio,East,United States
+496,73505.0,Oklahoma,Central,United States
+497,23666.0,Virginia,South,United States
+498,13440.0,New York,East,United States
+499,54601.0,Wisconsin,Central,United States
+500,83501.0,Idaho,West,United States
+501,39401.0,Mississippi,South,United States
+502,94526.0,California,West,United States
+503,48858.0,Michigan,Central,United States
+504,84321.0,Utah,West,United States
+505,6708.0,Connecticut,East,United States
+506,30605.0,Georgia,South,United States
+507,4240.0,Maine,East,United States
+508,61832.0,Illinois,Central,United States
+509,85323.0,Arizona,West,United States
+510,30062.0,Georgia,South,United States
+511,85364.0,Arizona,West,United States
+512,54401.0,Wisconsin,Central,United States
+513,99301.0,Washington,West,United States
+514,60302.0,Illinois,Central,United States
+515,32503.0,Florida,South,United States
+516,77573.0,Texas,Central,United States
+517,20877.0,Maryland,East,United States
+518,84043.0,Utah,West,United States
+519,35401.0,Alabama,South,United States
+520,92553.0,California,West,United States
+521,40324.0,Kentucky,South,United States
+522,80538.0,Colorado,West,United States
+523,85224.0,Arizona,West,United States
+524,59601.0,Montana,West,United States
+525,63122.0,Missouri,Central,United States
+526,76706.0,Texas,Central,United States
+527,48066.0,Michigan,Central,United States
+528,60423.0,Illinois,Central,United States
+529,18018.0,Pennsylvania,East,United States
+530,55113.0,Minnesota,Central,United States
+531,68801.0,Nebraska,Central,United States
+532,55125.0,Minnesota,Central,United States
+533,48237.0,Michigan,Central,United States
+534,72756.0,Arkansas,South,United States
+535,88101.0,New Mexico,West,United States
+536,33458.0,Florida,South,United States
+537,93101.0,California,West,United States
+538,75104.0,Texas,Central,United States
+539,68701.0,Nebraska,Central,United States
+540,84020.0,Utah,West,United States
+541,48104.0,Michigan,Central,United States
+542,91941.0,California,West,United States
+543,83201.0,Idaho,West,United States
+544,49423.0,Michigan,Central,United States
+545,6460.0,Connecticut,East,United States
+546,60089.0,Illinois,Central,United States
+547,92630.0,California,West,United States
+548,96003.0,California,West,United States
+549,95928.0,California,West,United States
+550,13501.0,New York,East,United States
+551,72032.0,Arkansas,South,United States
+552,82001.0,Wyoming,West,United States
+553,42301.0,Kentucky,South,United States
+554,83605.0,Idaho,West,United States
+555,70065.0,Louisiana,South,United States
+556,3060.0,New Hampshire,East,United States
+557,38134.0,Tennessee,South,United States
+558,94061.0,California,West,United States
+559,37087.0,Tennessee,South,United States
+560,93454.0,California,West,United States
+561,60016.0,Illinois,Central,United States
+562,98632.0,Washington,West,United States
+563,37075.0,Tennessee,South,United States
+564,50701.0,Iowa,Central,United States
+565,2138.0,Massachusetts,East,United States
+566,60067.0,Illinois,Central,United States
+567,1915.0,Massachusetts,East,United States
+568,97405.0,Oregon,West,United States
+569,93030.0,California,West,United States
+570,98059.0,Washington,West,United States
+571,60025.0,Illinois,Central,United States
+572,33445.0,Florida,South,United States
+573,80022.0,Colorado,West,United States
+574,77590.0,Texas,Central,United States
+575,27893.0,North Carolina,South,United States
+576,87124.0,New Mexico,West,United States
+577,27534.0,North Carolina,South,United States
+578,98208.0,Washington,West,United States
+579,90640.0,California,West,United States
+580,92020.0,California,West,United States
+581,77705.0,Texas,Central,United States
+582,33407.0,Florida,South,United States
+583,79605.0,Texas,Central,United States
+584,61761.0,Illinois,Central,United States
+585,63301.0,Missouri,Central,United States
+586,60174.0,Illinois,Central,United States
+587,93010.0,California,West,United States
+588,97123.0,Oregon,West,United States
+589,91505.0,California,West,United States
+590,95351.0,California,West,United States
+591,67846.0,Kansas,Central,United States
+592,8401.0,New Jersey,East,United States
+593,80501.0,Colorado,West,United States
+594,95616.0,California,West,United States
+595,26003.0,West Virginia,East,United States
+596,95037.0,California,West,United States
+597,7011.0,New Jersey,East,United States
+598,53081.0,Wisconsin,Central,United States
+599,30344.0,Georgia,South,United States
+600,57701.0,South Dakota,Central,United States
+601,1810.0,Massachusetts,East,United States
+602,34741.0,Florida,South,United States
+603,6484.0,Connecticut,East,United States
+604,6810.0,Connecticut,East,United States
+605,52302.0,Iowa,Central,United States
+606,32771.0,Florida,South,United States
+607,78666.0,Texas,Central,United States
+608,80634.0,Colorado,West,United States
+609,76063.0,Texas,Central,United States
+610,44035.0,Ohio,East,United States
+611,83301.0,Idaho,West,United States
+612,33134.0,Florida,South,United States
+613,60441.0,Illinois,Central,United States
+614,1752.0,Massachusetts,East,United States
+615,20707.0,Maryland,East,United States
+616,77803.0,Texas,Central,United States
+617,71603.0,Arkansas,South,United States
+618,57401.0,South Dakota,Central,United States
+619,21740.0,Maryland,East,United States
+620,7017.0,New Jersey,East,United States
+621,60004.0,Illinois,Central,United States
+622,60543.0,Illinois,Central,United States
+623,55433.0,Minnesota,Central,United States
+624,92672.0,California,West,United States
+625,94568.0,California,West,United States
+626,93405.0,California,West,United States
+627,72762.0,Arkansas,South,United States
